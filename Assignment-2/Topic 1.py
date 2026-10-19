@@ -75,3 +75,20 @@ age = int("19")
 new_age = (age + 1)
 
 print("Age:", new_age)
+
+#Question 9:-
+marks = "85"
+marks = int(marks)
+marks = int(marks+5)
+print(marks)
+print(type(marks))
+
+#Question 10:-
+price = "1499.50"
+price = float("1499.50")
+price = (1499.50 +99.50)
+print(price)
+print(type(price))
+
+
+
